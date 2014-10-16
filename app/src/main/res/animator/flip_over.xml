@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:propertyName="alpha"
+        android:startOffset="0"
+        android:valueFrom="1.0"
+        android:valueTo="0.75"
+        android:duration="100" />
+
+    <objectAnimator
+        android:propertyName="rotationY"
+        android:startOffset="100"
+        android:valueFrom="0"
+        android:valueTo="180"
+        android:duration="400" />
+
+    <objectAnimator
+        android:propertyName="rotationY"
+        android:startOffset="500"
+        android:valueFrom="180"
+        android:valueTo="0"
+        android:duration="400" />
+
+    <objectAnimator
+        android:propertyName="alpha"
+        android:startOffset="900"
+        android:valueFrom="0.75"
+        android:valueTo="1.0"
+        android:duration="100" />
+</set>

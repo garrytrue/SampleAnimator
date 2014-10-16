@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleAnimator</string>
+    <string name="anim_log">Animate Logging</string>
+    <string name="anim_fade">Fade in/out text</string>
+    <string name="i_disappear">I disappear!</string>
+    <string name="i_flip">I flip!</string>
+    <string name="anim_flip">Flip over text</string>
+
+</resources>
